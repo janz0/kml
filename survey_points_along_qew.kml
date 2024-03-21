@@ -28,13 +28,15 @@
         <name>Point 1</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle</styleUrl>
@@ -46,13 +48,15 @@
         <name>Point 2</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle</styleUrl>
@@ -64,13 +68,15 @@
         <name>Point 3</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle2</styleUrl>
@@ -82,13 +88,15 @@
         <name>Point 4</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle3</styleUrl>
@@ -100,13 +108,15 @@
         <name>Point 5</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle3</styleUrl>
@@ -118,13 +128,15 @@
         <name>Point 6</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle3</styleUrl>
@@ -136,13 +148,15 @@
         <name>Point 7</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle3</styleUrl>
@@ -154,13 +168,15 @@
         <name>Point 8</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle2</styleUrl>
@@ -172,13 +188,15 @@
         <name>Point 9</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle2</styleUrl>
@@ -190,13 +208,15 @@
         <name>Point 10</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle</styleUrl>
@@ -208,13 +228,15 @@
         <name>Point 11</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle</styleUrl>
@@ -226,13 +248,15 @@
         <name>Point 12</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle2</styleUrl>
@@ -244,13 +268,15 @@
         <name>Point 13</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle2</styleUrl>
@@ -262,13 +288,15 @@
         <name>Point 14</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle</styleUrl>
@@ -280,13 +308,15 @@
         <name>Point 15</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle</styleUrl>
@@ -298,13 +328,15 @@
         <name>Point 16</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle</styleUrl>
@@ -316,13 +348,15 @@
         <name>Point 17</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle</styleUrl>
@@ -334,13 +368,15 @@
         <name>Point 18</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle</styleUrl>
@@ -352,13 +388,15 @@
         <name>Point 19</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle</styleUrl>
@@ -370,13 +408,15 @@
         <name>Point 20</name>
         <description>
             <![CDATA[
-                Status: Inactive<br>
-                Northing: 1100<br>
-                Easting: 2100<br>
-                Elevation: 320<br>
-                Trans: 0.2<br>
-                Long: -100.456<br>
-                Vert: 0.3
+                <div style="font-family: Arial, sans-serif; font-size: 12px;">
+                    <p><strong>Status:</strong> Inactive</p>
+                    <p><strong>Northing:</strong> 1100</p>
+                    <p><strong>Easting:</strong> 2100</p>
+                    <p><strong>Elevation:</strong> 320</p>
+                    <p><strong>Trans:</strong> 0.2</p>
+                    <p><strong>Long:</strong> -100.456</p>
+                    <p><strong>Vert:</strong> 0.3</p>
+                </div>
             ]]>
         </description>
         <styleUrl>#pointStyle</styleUrl>
