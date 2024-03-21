@@ -5,19 +5,38 @@
     <Style id="pointStyle">
         <IconStyle>
             <Icon>
-                <href>"https://assets.dryicons.com/uploads/icon/svg/6278/987fd69b-d8c3-4a10-88fa-1f120e5cc2ae.svg"</href> <!-- Replace with your icon URL -->
+                <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle-lv.png</href> <!-- Replace with your icon URL -->
             </Icon>
         </IconStyle>
     </Style>
     <Style id="pointStyle2">
         <IconStyle>
             <Icon>
-                <href>"https://assets.dryicons.com/uploads/icon/svg/6281/c2dfab85-0b99-44c1-a196-44b74495c180.svg"</href> <!-- Replace with your icon URL -->
+                <href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle-lv.png</href> <!-- Replace with your icon URL -->
             </Icon>
         </IconStyle>
     </Style>
+    <Style id="pointStyle3">
+        <IconStyle>
+            <Icon>
+                <href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href> <!-- Replace with your icon URL -->
+            </Icon>
+        </IconStyle>
+    </Style>
+
     <Placemark>
         <name>Point 1</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle</styleUrl>
         <Point>
             <coordinates>-79.799032,43.32552,0</coordinates>
@@ -25,6 +44,17 @@
     </Placemark>
     <Placemark>
         <name>Point 2</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle</styleUrl>
         <Point>
             <coordinates>-79.79820448979592,43.32597604081632,0</coordinates>
@@ -32,6 +62,17 @@
     </Placemark>
     <Placemark>
         <name>Point 3</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle2</styleUrl>
         <Point>
             <coordinates>-79.79737697959183,43.32643208163265,0</coordinates>
@@ -39,34 +80,89 @@
     </Placemark>
     <Placemark>
         <name>Point 4</name>
-        <styleUrl>#pointStyle</styleUrl>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
+        <styleUrl>#pointStyle3</styleUrl>
         <Point>
             <coordinates>-79.79654946938776,43.32688812244898,0</coordinates>
         </Point>
     </Placemark>
     <Placemark>
         <name>Point 5</name>
-        <styleUrl>#pointStyle</styleUrl>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
+        <styleUrl>#pointStyle3</styleUrl>
         <Point>
             <coordinates>-79.79572195918367,43.3273441632653,0</coordinates>
         </Point>
     </Placemark>
     <Placemark>
         <name>Point 6</name>
-        <styleUrl>#pointStyle</styleUrl>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
+        <styleUrl>#pointStyle3</styleUrl>
         <Point>
             <coordinates>-79.79489444897959,43.32780020408163,0</coordinates>
         </Point>
     </Placemark>
     <Placemark>
         <name>Point 7</name>
-        <styleUrl>#pointStyle</styleUrl>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
+        <styleUrl>#pointStyle3</styleUrl>
         <Point>
             <coordinates>-79.7940669387755,43.32825624489796,0</coordinates>
         </Point>
     </Placemark>
     <Placemark>
         <name>Point 8</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle2</styleUrl>
         <Point>
             <coordinates>-79.79323942857143,43.32871228571428,0</coordinates>
@@ -74,13 +170,35 @@
     </Placemark>
     <Placemark>
         <name>Point 9</name>
-        <styleUrl>#pointStyle</styleUrl>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
+        <styleUrl>#pointStyle2</styleUrl>
         <Point>
             <coordinates>-79.79241191836735,43.32916832653061,0</coordinates>
         </Point>
     </Placemark>
     <Placemark>
         <name>Point 10</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle</styleUrl>
         <Point>
             <coordinates>-79.79158440816326,43.32962436734694,0</coordinates>
@@ -88,6 +206,17 @@
     </Placemark>
     <Placemark>
         <name>Point 11</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle</styleUrl>
         <Point>
             <coordinates>-79.79075689795918,43.33008040816326,0</coordinates>
@@ -95,13 +224,35 @@
     </Placemark>
     <Placemark>
         <name>Point 12</name>
-        <styleUrl>#pointStyle</styleUrl>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
+        <styleUrl>#pointStyle2</styleUrl>
         <Point>
             <coordinates>-79.7899293877551,43.33053644897959,0</coordinates>
         </Point>
     </Placemark>
     <Placemark>
         <name>Point 13</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle2</styleUrl>
         <Point>
             <coordinates>-79.78910187755102,43.33099248979592,0</coordinates>
@@ -109,6 +260,17 @@
     </Placemark>
     <Placemark>
         <name>Point 14</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle</styleUrl>
         <Point>
             <coordinates>-79.78827436734693,43.33144853061224,0</coordinates>
@@ -116,6 +278,17 @@
     </Placemark>
     <Placemark>
         <name>Point 15</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle</styleUrl>
         <Point>
             <coordinates>-79.78744685714285,43.33190457142857,0</coordinates>
@@ -123,6 +296,17 @@
     </Placemark>
     <Placemark>
         <name>Point 16</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle</styleUrl>
         <Point>
             <coordinates>-79.78661934693878,43.3323606122449,0</coordinates>
@@ -130,6 +314,17 @@
     </Placemark>
     <Placemark>
         <name>Point 17</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle</styleUrl>
         <Point>
             <coordinates>-79.78579183673469,43.33281665306122,0</coordinates>
@@ -137,6 +332,17 @@
     </Placemark>
     <Placemark>
         <name>Point 18</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle</styleUrl>
         <Point>
             <coordinates>-79.78496432653061,43.333272693877554,0</coordinates>
@@ -144,6 +350,17 @@
     </Placemark>
     <Placemark>
         <name>Point 19</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle</styleUrl>
         <Point>
             <coordinates>-79.78413681632652,43.33372873469388,0</coordinates>
@@ -151,6 +368,17 @@
     </Placemark>
     <Placemark>
         <name>Point 20</name>
+        <description>
+            <![CDATA[
+                Status: Inactive<br>
+                Northing: 1100<br>
+                Easting: 2100<br>
+                Elevation: 320<br>
+                Trans: 0.2<br>
+                Long: -100.456<br>
+                Vert: 0.3
+            ]]>
+        </description>
         <styleUrl>#pointStyle</styleUrl>
         <Point>
             <coordinates>-79.78330930612245,43.3341847755102,0</coordinates>
